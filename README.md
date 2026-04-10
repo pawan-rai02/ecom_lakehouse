@@ -71,8 +71,6 @@ s3://ecom-pr1/
 │       │   └── staging/              ← 700+ CSVs
 │       ├── payments/
 │       │   └── staging/              ← 700+ CSVs
-│       ├── products/
-│       │   └── staging/              ← 700+ CSVs
 │       ├── reviews/
 │       │   └── staging/              ← 700+ CSVs
 │       ├── risk_support/
@@ -90,11 +88,11 @@ s3://ecom-pr1/
 
 ### Pipeline Graph
 
-![Pipeline Graph](../images/pipeline.png)
+![Pipeline Graph](/images/pipeline.png)
 
 ### Pipeline Runtime — Run Complete
 
-![Pipeline Runtime](../images/pipelineRUNTIME.png)
+![Pipeline Runtime](/images/pipelineRUNTIME.png)
 
 ---
 
